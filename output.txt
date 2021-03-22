@@ -2480,6 +2480,6 @@ Priority queue 3 is empty
            Averages:              20.625             552.125             201.625
 --------------------------------------------------------------------------------
 
-Total context switches                 679
+Total context switches                  73
 
      CPU utilization             87.8788%
